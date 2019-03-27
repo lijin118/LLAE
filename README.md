@@ -1,7 +1,7 @@
 # LLAE
 Linear Low-Rank Autoencoder for Zero-shot Learning    
 
-Reported at AAAI-19   
+Reported at AAAI-19 "From Zero-Shot Learning to Cold-Start Recommendation"   
 
 @inproceedings{li2019zero,    
   title={From Zero-Shot Learning to Cold-Start Recommendation},     
