@@ -10,4 +10,4 @@ Reported at AAAI-19 "From Zero-Shot Learning to Cold-Start Recommendation"
   year={2019}   
 }
 
-#Revised from Semamtic Autoencoder#
+#Revised from Semamtic Autoencoder#, demo dataset can be found at https://drive.google.com/open?id=0B3-qq6zHiDF3THJqeFhQX0hROVk
